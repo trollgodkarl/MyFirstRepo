@@ -8,6 +8,7 @@ This is my sandbox for Engineering
 
 <img src="https://64.media.tumblr.com/tumblr_lyy9axDB7e1qc3vyd.jpg" height ="50">
 
-[This is how your link SHOULD appear](https://www.markdownguide.org/cheat-sheet/
-)
+[This is how your link SHOULD appear](https://www.markdownguide.org/cheat-sheet/)
+
+<img src="https://github.com/trollgodkarl/MyFirstRepo/blob/master/Images/tom-brady-fist-pump-getty-640x480.jpg?raw=true" width="500" >
 
